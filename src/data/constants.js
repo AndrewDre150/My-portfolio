@@ -363,11 +363,11 @@ export const projects = [
     description:
       "This is my portfolio that will be updatede as my career grows and as more projects and jop opportunities come up.",
     image:
-      "https://designnotes.blog.gov.uk/wp-content/uploads/sites/53/2020/06/Portfolio-Desk.jpg",
+      "https://vercel.com/_next/image?url=%2Fapi%2Fscreenshot%3Fdark%3D1%26deploymentId%3Ddpl_5SyNPjgNGCDmi64SifZhVQRjJ11F%26teamId%3Dturinawe-andrews-projects%26withStatus%3D1&w=640&q=75&dpl=dpl_FVBugDKJWaTybMHRjhsoRFBSSRE3",
     tags: ["React, CSS, Javascript"],
     category: "Web app",
     github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    webapp: "https://my-portfolio-eight-mauve-91.vercel.app/",
   },
   {
     id: 10,
