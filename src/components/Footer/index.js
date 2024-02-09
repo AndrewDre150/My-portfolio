@@ -89,6 +89,8 @@ function Footer() {
     <FooterContainer>
       <FooterWrapper>
         <Logo>ANDREW TURINAWE</Logo>
+        <Logo>Phone number: +256 700294565</Logo>
+        <Logo>Email: turinskandrew69@gmail.com</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
