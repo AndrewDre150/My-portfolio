@@ -363,11 +363,24 @@ export const projects = [
     description:
       "This is my portfolio that will be updatede as my career grows and as more projects and jop opportunities come up.",
     image:
-      "https://vercel.com/_next/image?url=%2Fapi%2Fscreenshot%3Fdark%3D1%26deploymentId%3Ddpl_5SyNPjgNGCDmi64SifZhVQRjJ11F%26teamId%3Dturinawe-andrews-projects%26withStatus%3D1&w=640&q=75&dpl=dpl_FVBugDKJWaTybMHRjhsoRFBSSRE3",
+      "https://designnotes.blog.gov.uk/wp-content/uploads/sites/53/2020/06/Portfolio-Desk.jpg",
     tags: ["React, CSS, Javascript"],
     category: "Web app",
     github: "https://github.com/rishavchanda/Buckoid-Android-App",
     webapp: "https://my-portfolio-eight-mauve-91.vercel.app/",
+  },
+  {
+    id: 8,
+    title: "Quiz App",
+    date: "March 2024",
+    description:
+      "This is a simple quiz app made up of 5 questions, that one answers and is shown the correct answers if he clicks a wrong one and shows the reuslts at the end.",
+    image:
+      "https://t3.ftcdn.net/jpg/03/45/97/36/360_F_345973621_sMifpCogXNoIDjmXlbLwx1QZA5ZmQVl8.jpg",
+    tags: ["React, Vite CSS, Javascript"],
+    category: "Web app",
+    github: "https://github.com/AndrewDre150/Quiz-app",
+    webapp: "https://quiz-app-chi-lovat.vercel.app/",
   },
   {
     id: 10,
