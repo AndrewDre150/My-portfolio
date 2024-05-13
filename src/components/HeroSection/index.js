@@ -4,6 +4,7 @@ import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, Hero
 import HeroImg from '../../images/heroImage (2).jpg'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
+import profile from '../../images/pp.png'
 
 const HeroSection = () => {
     return (
@@ -33,7 +34,8 @@ const HeroSection = () => {
 
                     <HeroRightContainer id="Right">
 
-                        <Img src={HeroImg} alt="hero-image" />
+                        {/* <Img src={HeroImg} alt="hero-image" /> */}
+                        <Img src={profile} alt="hero-image" />
                     </HeroRightContainer>
                 </HeroInnerContainer>
 
