@@ -331,7 +331,7 @@ export const projects = [
   
   {
     id: 2,
-    title: "Carbon Emmision Monitoring System",
+    title: "Carbon Emmision Monitoring System (CEMIDS)",
     date: "Jan 2024 - till date",
     description:
       "This s a sensor based system made for monitoring CO2 emmisions and increasing awareness about climate change to the general public, created API using model and Django, and used React web app for the project's front end.",
@@ -339,6 +339,8 @@ export const projects = [
       "https://analoxgroup.com/wp-content/uploads/2022/01/AQM_01.jpeg",
     tags: ["Python", "Django", "React", "Arduino", "Matplotlib", "React"],
     category: "Web app",
+    github: "https://github.com/AndrewDre150/CEMIDS-final-year.git",
+    webapp: "https://cemid.vercel.app/",
     // github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
     // webapp: "https://brain-tumor.netlify.app/",
     // member: [
